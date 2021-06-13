@@ -1,4 +1,5 @@
 # El Dojo Dodge de SCESILIA
 ## Versión 1.0
-### Lista de Caracteristicas:
+### Caracteristicas :
      * Herramientas para Katan y Laito
+     * Herramientas para Karate
